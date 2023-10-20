@@ -1,0 +1,6 @@
+Book_id,Book_title,Borrowed_at,due_Date,Borrower_Id,book_status
+1,test,1697839668000,1699049268000,1,borrowed
+2,funny,,,,available
+3,funny,,,,available
+4,funny,,,,available
+5,funny,,,,available
